@@ -11,3 +11,4 @@ rocket CAD:
 ground station cad: 
 
 <img width="910" height="695" alt="image" src="https://github.com/user-attachments/assets/140f9dbc-820b-42eb-997f-c36cec5379fb" />
+[Untitled spreadsheet.xlsx](https://github.com/user-attachments/files/24397993/Untitled.spreadsheet.xlsx)
